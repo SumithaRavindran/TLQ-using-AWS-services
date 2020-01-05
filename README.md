@@ -8,7 +8,7 @@ Service #1 – Extract and Transform
 
   -Generating columns “Order Processing Time” and  “Gross Margin” column
   -Replacing the values of “Order Priority” column
-  - Removing duplicate records in the “Order ID” column.
+  -Removing duplicate records in the “Order ID” column.
   
 Service #2 – Load 
 
