@@ -16,7 +16,7 @@ import java.util.stream.Collectors;
 
 /**
  * @author TCSS562 Trem_Project_GROUP8
- * @author Simerpreet,Sumitha and Sreenavya
+ * @author Sumitha
  */
 
 public class S1Transform {
