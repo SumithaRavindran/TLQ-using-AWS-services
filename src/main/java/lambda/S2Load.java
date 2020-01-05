@@ -24,7 +24,6 @@ import java.util.Scanner;
 
 /**
  * @author TCSS562 Trem_Project_GROUP8
- * @author Sreenavya N
  */
 public class S2Load implements RequestHandler<Request, HashMap<String, Object>>
 {
