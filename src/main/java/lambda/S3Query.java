@@ -22,7 +22,6 @@ import java.util.LinkedList;
 import java.util.Properties;
 /**
  * @author TCSS562 Trem_Project_GROUP8
- * @author Deeksha Rao Gorige
  */
 public class S3Query implements RequestHandler<Request, HashMap<String, Object>>
 {
