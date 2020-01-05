@@ -1,4 +1,4 @@
-# SAAF - Serverless Application Analytics Framework - Java
+# Serverless data processing pipelines
 
 SAAF is a programming framework that allows for tracing FaaS function server infrastructure for code deployments. This framework includes functions to enable tracing code containers and hosts (VMs) created by FaaS platform providers for hosting FaaS functions. This information can help verify the state of infrastructure (COLD vs. WARM) to understand performance results, and help preserve infrastructure for better FaaS performance.
 
